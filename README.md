@@ -12,7 +12,7 @@ Minimalistic but creative—solving problems with clean code and a fresh perspec
 
 ### 📬 Contact
 - [GitHub](https://github.com/AndrePersson)
-- [LinkedIn](https://www.linkedin.com/in/andre-persson)
+- [LinkedIn](https://se.linkedin.com/in/andr%C3%A9-persson-114647127)
 
 ---
 
